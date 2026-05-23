@@ -60,3 +60,30 @@ while(alive){
     innovate();
     repeat();
 }
+🌐 Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/rohith-venkata-pavan-sai-bomma-6ab808296/" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-ff2e88?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/the_chord__7?igsh=OXV5ZjZ1cHZ3YnZ2" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-ff8a00?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://github.com/Rohith-4139" target="_blank"> <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:bomma.pawansai4139@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+⚡ Tech Arsenal
+<table align="center"> <tr> <td width="50%" valign="top">
+🎨 Frontend Magic
+<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> </p> </td> <td width="50%" valign="top">
+⚙️ Backend & Database
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=68A063"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </p> </td> </tr> </table>
+📊 GitHub Statistics
+<p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rohith-4139&show_icons=true&theme=radical"/> <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-4139&theme=radical"/> </p> <p align="center"> <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-4139&theme=react-dark"/> </p>
+🔥 Most Used Languages
+<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-4139&layout=compact&theme=radical"/> </p>
+🏆 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rohith-4139&theme=radical&no-frame=true&margin-w=10"/> </p>
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
+💡 Random Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> </p>
+👀 Profile Views
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohith-4139&label=PROFILE+VIEWS&color=ff2e88&style=for-the-badge"/> </p>
+⚡ Coding Zone
+<p align="center"> <img width="450" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/> </p>
+<h3 align="center">
+
+🚀 BUILDING MODERN DIGITAL EXPERIENCES 🚀
+
+</h3> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,100:ff8a00&height=130&section=footer"/> </p> ```
