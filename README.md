@@ -1,9 +1,37 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=240&section=header&text=BOMMA%20ROHITH%20VENKATA%20PAVAN%20SAI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=FF2E88&center=true&vCenter=true&width=900&lines=BOMMA+ROHITH+VENKATA+PAVAN+SAI;Frontend+Developer;Python+Enthusiast;Building+Modern+Digital+Experiences" />
+
+⚡ Frontend Developer 💻
+
 </h1>
 
+<br>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,100:ff8a00&height=250&section=header&text=ROHITH-4139&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<a href="https://www.linkedin.com/in/rohith-venkata-pavan-sai-bomma-6ab808296/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/the_chord__7?igsh=OXV5ZjZ1cHZ3YnZ2" target="_blank">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Rohith-4139" target="_blank">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:bomma.pawansai4139@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+<img width="80%" src="https://user-images.githubusercontent.com/74038190/212744275-2e6d5c5b-4f11-4e3d-84d2-1fcbdf5b9f4d.gif">
 </p>
 
 ---
@@ -12,7 +40,7 @@
 
 <p align="center">
 
-<img align="right" width="340" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img align="right" width="320" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 </p>
 
@@ -60,8 +88,6 @@ while(alive){
     innovate();
     repeat();
 }
-🌐 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/rohith-venkata-pavan-sai-bomma-6ab808296/" target="_blank"> <img src="https://img.shields.io/badge/LINKEDIN-ff2e88?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://www.instagram.com/the_chord__7?igsh=OXV5ZjZ1cHZ3YnZ2" target="_blank"> <img src="https://img.shields.io/badge/INSTAGRAM-ff8a00?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="https://github.com/Rohith-4139" target="_blank"> <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:bomma.pawansai4139@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 ⚡ Tech Arsenal
 <table align="center"> <tr> <td width="50%" valign="top">
 🎨 Frontend Magic
@@ -69,21 +95,21 @@ while(alive){
 ⚙️ Backend & Database
 <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=68A063"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> </p> </td> </tr> </table>
 📊 GitHub Statistics
-<p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rohith-4139&show_icons=true&theme=radical"/> <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-4139&theme=radical"/> </p> <p align="center"> <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-4139&theme=react-dark"/> </p>
+<p align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Rohith-4139&show_icons=true&theme=tokyonight"/> <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohith-4139&theme=tokyonight"/> </p> <p align="center"> <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rohith-4139&theme=tokyo-night"/> </p>
 🔥 Most Used Languages
-<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-4139&layout=compact&theme=radical"/> </p>
+<p align="center"> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-4139&layout=compact&theme=tokyonight"/> </p>
 🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rohith-4139&theme=radical&no-frame=true&margin-w=10"/> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Rohith-4139&theme=algolia&no-frame=true&margin-w=10"/> </p>
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/> </p>
 💡 Random Dev Quote
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/> </p>
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/> </p>
 👀 Profile Views
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohith-4139&label=PROFILE+VIEWS&color=ff2e88&style=for-the-badge"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rohith-4139&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge"/> </p>
 ⚡ Coding Zone
 <p align="center"> <img width="450" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/> </p>
 <h3 align="center">
 
 🚀 BUILDING MODERN DIGITAL EXPERIENCES 🚀
 
-</h3> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,100:ff8a00&height=130&section=footer"/> </p> ```
+</h3> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=130&section=footer"/> </p> ```
